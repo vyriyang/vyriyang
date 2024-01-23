@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently a CS PhD student from LSU
+- 🔭 I’m currently a CS PhD student at LSU
 - 🌱 My research interests are visualizations and ML application 
